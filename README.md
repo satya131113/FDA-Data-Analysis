@@ -43,7 +43,7 @@ This project requires Python 3.13.1.
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone [repository-url](https://github.com/satya131113/FDA-Data-Analysis)
    cd DashPlotly
    ```
 
