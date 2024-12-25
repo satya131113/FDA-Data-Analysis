@@ -44,7 +44,7 @@ This project requires Python 3.13.1.
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/satya131113/FDA-Data-Analysis
-   cd DashPlotly
+   cd FDA-Data-Analysis
    ```
 
 2. **Set Up a Virtual Environment**:
